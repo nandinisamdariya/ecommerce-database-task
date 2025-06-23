@@ -1,5 +1,3 @@
-# ecommerce-database-task
-
 # E-commerce Database Schema
 
 ## Overview
